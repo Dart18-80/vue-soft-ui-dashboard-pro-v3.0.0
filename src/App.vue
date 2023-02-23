@@ -21,6 +21,7 @@
       :class="[showConfig ? 'show' : '', hideConfigButton ? 'd-none' : '']"
     />
   </main>
+  
 </template>
 <script>
 import Sidenav from "./examples/Sidenav";
